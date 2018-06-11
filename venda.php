@@ -1,4 +1,4 @@
-<html>
+﻿<html>
 
 <head>
     <link rel="stylesheet" type="text/css" href="./css/vendas.css">
@@ -22,17 +22,20 @@
 </TD>
 
 <TD class="tcentro"> 
-<input type="text" name="Pesquisa">
+
+<TD class="tdcentro2"> 
+<input type="text" name="Pesquisa" size="80">
 <img class="lupa" src="http://localhost/feetshoesshop/imagens/lupa.png">
+</TD>
+<td>
+<a href="http://localhost/feetshoesshop/cadastro.php" class="tbutton">Cadastre-se</a>
 </TD>
 
 <TD class="tdcentro2"> 
 <a href="http://localhost/feetshoesshop/login.php" class="tbutton">Login</a>
 </TD>
 
-<TD class="tdcentro2"> 
-<a href="http://localhost/feetshoesshop/cadastro.php" class="tbutton">Cadastre-se</a>
-</TD>
+
 
 <TD class="tdire"> 
 <img class="carro" src="http://localhost/feetshoesshop/imagens/carro.png" />
@@ -84,7 +87,7 @@ arredondado, estampa lateral, salto baixo<br/> e solado
   </div>
   <img class="vendas" src="http://localhost/feetshoesshop/imagens/3.png">
   <div class="frete">
-    <img src="//static.netshoes.com.br/banners/l_netshoes/2018-05-25/3794_frete-gratis.gif">
+    
   </div>
   <div class="preco">De: R$ 79,99
   <br/>2x de R$ 25,00

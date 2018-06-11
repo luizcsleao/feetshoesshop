@@ -10,7 +10,7 @@ div.d1
 div.d1 img.logo{
   width: 145px;
   height: 145px;
-  border: 2.5px solid black;
+  border: 3.5px solid white;
   vertical-align: center;
 
 
@@ -59,10 +59,13 @@ td.tdire{
 div.d2{
     vertical-align: bottom;
     background-color: black;
-    height: 40px ;
-    width: 100%;
-    border: 1px black; 
-    
+    height: 27px;
+    width: 100.5%;
+    border: 2px black; 
+position: absolute;
+   bottom: 77%;
+left:0%;
+
 }
 
 table.tab2{
@@ -148,7 +151,7 @@ img.vendas{
     width: 30%;
     height: 40%;
     position: relative;
-      bottom: 50%;
+      bottom: 0%;
       left: 40%;
        }
 div.tam{
@@ -203,7 +206,7 @@ img.comprar{
     div.separador{
         vertical-align: bottom;
         background-color:white;
-        height: 25px ;
+        height: 25.5px ;
         width: 100%;
         border: 1px pink; }
 

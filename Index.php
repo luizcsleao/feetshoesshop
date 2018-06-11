@@ -1,11 +1,8 @@
-<?php
-  session_start();
-?>
+
 
 <html>
 
 <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <link rel="stylesheet" type="text/css" href="./css/dif.css">
 </head>
 
@@ -26,28 +23,14 @@
 <input type="text" name="Pesquisa">
 <img class="lupa" src="http://localhost/feetshoesshop/imagens/lupa.png">
 </TD>
-<?php
-  if(isset($_SESSION['logado']) && $_SESSION['logado'] == TRUE){
-?>
-<TD class="tdcentro2"> 
-<a href="http://localhost/feetshoesshop/p_logout.php" class="tbutton">Logout</a>
-</TD>
-<TD class="tdcentro2"> 
-Bem-vindo(a) <?=$_SESSION['nome_cli'];?>
-</TD>
-<?php
-  }else{
-?>
+
 <TD class="tdcentro2"> 
 <a href="http://localhost/feetshoesshop/login.php" class="tbutton">Login</a>
 </TD>
+
 <TD class="tdcentro2"> 
 <a href="http://localhost/feetshoesshop/cadastro.php" class="tbutton">Cadastre-se</a>
 </TD>
-<?php
-  }
-?>
-
 
 <TD class="tdire"> 
 <img class="carro" src="http://localhost/feetshoesshop/imagens/carro.png" />
@@ -67,7 +50,7 @@ Bem-vindo(a) <?=$_SESSION['nome_cli'];?>
     
     <TR>
     <TD>
-    <a href="./produtos.php?publico=masculino">MASCULINO</a>
+    <a href="./venda.php">MASCULINO</a>
     </TD>
 
     <TD>
