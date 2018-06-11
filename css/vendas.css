@@ -1,0 +1,228 @@
+div.d1
+{
+  vertical-align: top;
+  background-color: white;
+  height: 152px ;
+  width: 100%;
+  border: 1px white;
+  
+}
+div.d1 img.logo{
+  width: 145px;
+  height: 145px;
+  border: 2.5px solid black;
+  vertical-align: center;
+
+
+}
+
+div.d1 img.petz{
+  width: 175px;
+  height: 145px;
+  vertical-align: center;
+}
+
+div.d1 img.carro{
+  width: 25px;
+  height: 25px;
+  border: 0px solid black;
+  float: right;
+  vertical-align: center;
+
+  }
+  div.d1 form.form{
+    vertical-align: right;
+  }
+  
+  div.d1 img.login{
+    height:30px;
+  }
+  div.d1 img.lupa{
+    width: 25px;
+    height: 25px;  
+  }
+ table.jj{
+   width:100%;
+ }
+td.tesq{
+  text-align:left;
+}
+
+td.tcentro{
+    text-align: center;
+}
+
+td.tdire{
+  text-align:right;
+}
+
+div.d2{
+    vertical-align: bottom;
+    background-color: black;
+    height: 40px ;
+    width: 100%;
+    border: 1px black; 
+    
+}
+
+table.tab2{
+    width: 100%;
+}
+
+table.tab2 td{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    width: 33%;
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+div.d3{
+    vertical-align: bottom;
+    background-color:white;
+    height: 150px ;
+    width: 100%;
+    border: 1px pink; 
+}
+div.d4{
+    vertical-align: bottom;
+    background-color:blue;
+    height: 350px ;
+    width: 100%;
+    border: 1px pink; 
+}
+div.text{
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: 30px;
+   position: absolute;
+   bottom: 61.6%;
+   left: 10%;
+}
+div.text2{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: 15px;
+   position: absolute;
+   bottom: 54.5%;
+   left: 10%;
+}
+div.frete{
+    position : relative;
+    bottom: 38.0%;
+    left: 72%;
+}
+div.preco{
+    position: absolute;
+   bottom: 60.8%;
+   left: 72%;
+}
+
+ img.marcas{
+     width: 8%;
+     height: 8%;
+     position: relative;
+       left: 13.8%;
+       display: inline;
+       padding-right: 30px;
+       padding-bottom: 10px; }
+
+img.vendas{
+    width: 30%;
+    height: 40%;
+    position: relative;
+      bottom: 50%;
+      left: 40%;
+       }
+div.tam{
+    width:  30%;
+    height: 30%;
+    position: absolute;
+    bottom: 28.0%;
+    left: 72%;} 
+img.tam{
+    width: 8%;
+    height: 12% 
+}
+div.comprar{
+    width:  30%;
+    height: 30%;
+    position: absolute;
+    bottom: 15.0%;
+    left: 50%;} 
+
+
+div.relacionados{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 23px;
+    height: 30% ;
+    width: 100%;;
+    position: absolute;
+    bottom: 1.0%;
+    left: 1%;}
+    div.relacionados2{
+        width:  20%;
+        height: 1%;
+        position: relative;
+        bottom: 2px;
+        left: 1%;}
+img.recomenda{
+    width:100% ;
+    height: 150px;
+    position: relative;
+    bottom: 0%;
+    left: 10%;  
+}
+
+img.comprar{
+    width: 30%;
+    height: 50%;
+    position: relative;
+    bottom: 25.0%;
+    left: 72%;} 
+
+    div.separador{
+        vertical-align: bottom;
+        background-color:white;
+        height: 25px ;
+        width: 100%;
+        border: 1px pink; }
+
+    div.d5{
+    vertical-align: text-bottom;
+    background-color: white;
+    height:0.5 px ;
+    width: 100%;
+    border: 1px white;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+ }
+
+ .tbutton{
+    background-color:black;
+    border: 1px;
+    padding: 5px 20px;
+    color:white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+  }
